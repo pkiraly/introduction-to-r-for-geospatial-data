@@ -1,2 +1,2 @@
-# introduction-to-r-for-geospatial-sata
-Codes for [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/)
+# Introduction to R for Geospatial Data
+Codes of the [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) Carpentry lesson
